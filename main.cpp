@@ -16,9 +16,7 @@ vector<int> as(10);
     cout << a + b<<endl;
 
 
-    int x, y;
 
-    cin >> x >> y;
 
     string s = "How are you?";
 
